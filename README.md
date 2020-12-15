@@ -1,1 +1,1 @@
-# deploy-a-python-machine-learning-model-as-a-web-service
+# deploy-a-python-ml-model-as-a-web-service
